@@ -1,0 +1,13 @@
+C:\MarchenkoExam\bin\Debug\netcoreapp3.1\Exam.exe
+C:\MarchenkoExam\bin\Debug\netcoreapp3.1\Exam.deps.json
+C:\MarchenkoExam\bin\Debug\netcoreapp3.1\Exam.runtimeconfig.json
+C:\MarchenkoExam\bin\Debug\netcoreapp3.1\Exam.runtimeconfig.dev.json
+C:\MarchenkoExam\bin\Debug\netcoreapp3.1\Exam.dll
+C:\MarchenkoExam\bin\Debug\netcoreapp3.1\Exam.pdb
+C:\MarchenkoExam\obj\Debug\netcoreapp3.1\Exam.csprojAssemblyReference.cache
+C:\MarchenkoExam\obj\Debug\netcoreapp3.1\Exam.AssemblyInfoInputs.cache
+C:\MarchenkoExam\obj\Debug\netcoreapp3.1\Exam.AssemblyInfo.cs
+C:\MarchenkoExam\obj\Debug\netcoreapp3.1\Exam.csproj.CoreCompileInputs.cache
+C:\MarchenkoExam\obj\Debug\netcoreapp3.1\Exam.dll
+C:\MarchenkoExam\obj\Debug\netcoreapp3.1\Exam.pdb
+C:\MarchenkoExam\obj\Debug\netcoreapp3.1\Exam.genruntimeconfig.cache
